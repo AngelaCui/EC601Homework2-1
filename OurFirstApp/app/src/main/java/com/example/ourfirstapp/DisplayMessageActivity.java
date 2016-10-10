@@ -1,6 +1,8 @@
 package com.example.ourfirstapp;
 
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteOpenHelper;
 import android.graphics.Bitmap;
 import android.media.Image;
 import android.provider.MediaStore;
