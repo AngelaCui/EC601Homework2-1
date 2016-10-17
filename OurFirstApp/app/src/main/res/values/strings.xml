@@ -2,4 +2,9 @@
     <string name="app_name">Our First App</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="username_title">Username</string>
+    <string name="password_title">Password</string>
+    <string name="button_addUser">Add User</string>
+    <string name="button_viewDetails">View Details</string>
+    <string name="policy_number_title">Policy Number</string>
 </resources>
